@@ -1,4 +1,4 @@
-## Technical Skills 
+## Technical Skills
 
 ### Languages:
 <p>
@@ -33,3 +33,9 @@
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&width=300&height=50" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&width=300&height=50" />
 </p>
+
+### GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanidhyaDigvijay&count_private=true&show_icons=true&hide_title=true)
+
+### Most Used Languages 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanidhyaDigvijay&layout=compact&langs_count=6)
