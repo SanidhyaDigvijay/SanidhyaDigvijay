@@ -1,4 +1,4 @@
-## Profile
+## Overview
 
 <p>
   Hands-on experience in problem solving and web development through practical projects.<br>
