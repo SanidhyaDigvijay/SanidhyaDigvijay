@@ -1,3 +1,7 @@
+<p>
+  Hands-on experience in problem solving and web development through practical projects.<br>
+  Exploring AI and seeking opportunities for internships, projects, and real-world experience.
+</p>
 ## Technical Skills 
 
 ### Languages:
